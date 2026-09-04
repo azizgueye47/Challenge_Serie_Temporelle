@@ -31,7 +31,7 @@ Je vais explorer différentes techniques de visualisation afin d'identifier :
 
 L'objectif est de développer le réflexe d'**explorer visuellement les données avant de choisir un modèle de prévision**.
 
-**Statut : [Challenge_Serie_Temporelle/Graphismes de la série chronologique.ipynb at main · azizgueye47/Challenge_Serie_Temporelle](https://github.com/azizgueye47/Challenge_Serie_Temporelle/blob/main/Graphismes%20de%20la%20s%C3%A9rie%20chronologique.ipynb)
+**Statut : [Visualisation en série temporelle](https://github.com/azizgueye47/Challenge_Serie_Temporelle/blob/main/Graphismes%20de%20la%20s%C3%A9rie%20chronologique.ipynb)
 
 ---
 
