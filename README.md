@@ -31,7 +31,7 @@ Je vais explorer différentes techniques de visualisation afin d'identifier :
 
 L'objectif est de développer le réflexe d'**explorer visuellement les données avant de choisir un modèle de prévision**.
 
-**Statut : [Visualisation en série temporelle](https://github.com/azizgueye47/Challenge_Serie_Temporelle/blob/main/Graphismes%20de%20la%20s%C3%A9rie%20chronologique.ipynb)
+**Statut : [Visualisation en série temporelle](https://github.com/azizgueye47/Challenge_Serie_Temporelle/blob/main/Graphismes%20de%20la%20s%C3%A9rie%20chronologique.ipynb)**
 
 ---
 
@@ -47,7 +47,7 @@ Ce chapitre consiste à décomposer une série en différentes composantes afin 
 
 L'objectif est de passer d'une simple observation graphique à une **compréhension plus approfondie de la structure de la série**.
 
-**Statut : ⏳ À venir**
+**Statut :[Décomposition des séries temporelles](https://github.com/azizgueye47/Challenge_Serie_Temporelle/blob/main/D%C3%A9composition%20des%20s%C3%A9ries%20temporelles.ipynb)**
 
 ---
 
